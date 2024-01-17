@@ -1,0 +1,18 @@
+.border{
+    border: 2px solid midnightblue;
+    margin-left: 10px;
+    padding-left: 10px
+}
+
+#padding{
+    Margin-left: 10px;
+    padding-left: 10px;
+}
+
+#font{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.link{
+    color: blueviolet
+}
